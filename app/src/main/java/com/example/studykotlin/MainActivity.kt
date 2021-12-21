@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         val buttonCountDown : Button = findViewById(R.id.buttonCountDown)
         buttonCountDown.setOnClickListener(this)
+
+        val buttonClear : Button = findViewById(R.id.buttonClear)
+        buttonClear.setOnClickListener(this)
     }
 
     override fun onClick(view: View) {
