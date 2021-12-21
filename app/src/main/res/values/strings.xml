@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Study Kotlin</string>
+    <string name="buttonCountDown">-</string>
+    <string name="buttonCountUp">+</string>
+    <string name="textViewNumber">0</string>
+    <string name="buttonClear">Clear</string>
+</resources>
